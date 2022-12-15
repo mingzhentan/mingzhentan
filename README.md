@@ -4,8 +4,6 @@
 
 Postdoc at Southern University of Science and Technology.
 
----------
-
 #### Latest
 
 - [SUSTech](https://www.researchgate.net/institution/Southern-University-of-Science-and-Technology) - Department of Mechanics and Aerospace Engineering.
