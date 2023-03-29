@@ -1,8 +1,10 @@
-## Multi-scale and Multi-physics Coupling Heat Transfer
+## Mesoscopic Heat Transfer
 
-![](https://komarev.com/ghpvc/?username=mingzhentan&label=Profile+Views)
+---------
 
 Postdoc at Southern University of Science and Technology.
+
+---------
 
 #### Latest
 
@@ -14,22 +16,26 @@ Postdoc at Southern University of Science and Technology.
 
 - [2021-2023] **Postdoc** at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/), China. Advisor: Lei Wu.
 - [2016-2021] **Ph.D.** in Engineering Thermal Physics, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China. Advisor: Zhaoli Guo, Songze Chen. [PhD thesis: 声子输运的介观数值方法及非傅里叶导热机理研究](https://www.researchgate.net/publication/351660598_PhD_thesis_written_in_Chinese_zhongwenboshibiyelunwen)
-- [2012-2016] **B.Eng.** in Energy and Power Engineering, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China. Advisor: Zhaoli Guo, Songze Chen. [Bachelor's thesis: 跨流域流动的高效隐式动理学方法及应用]
+- [2012-2016] **B.Eng.** in Energy and Power Engineering, [Huazhong University of Science and Technology](https://www.hust.edu.cn/), China. Advisor: Zhaoli Guo, Songze Chen. [Bachelor's thesis: 跨流域流动的高效隐式动理学方法及应用](https://www.researchgate.net/publication/369505786_kualiuyuliudongdegaoxiaoyinshifangfajiyingyongbenkebishe)
 
 #### Research areas
 
 - Micro/nano Scale Heat Transfer
 - Mesoscopic Numerical Methods
 - Rarefied Gas Dynamics
+- Phonon/Electron/Photon transport
 
 #### Papers
 
+- [2023] [Xinliang Song, Yue Zhang, Xiafeng Zhou*, Chuang Zhang, Zhaoli Guo*. Modified steady discrete unified gas kinetic scheme for multiscale radiative heat transfer. International Journal of Heat and Mass Transfer, Volume 203, April 2023, 123799](https://www.sciencedirect.com/science/article/abs/pii/S0017931022012674?via%3Dihub).
+<!--  -->
+- [2022] [Leheng Chen, Chuang Zhang, Jin Zhao*. Modeling Heat Conduction with Two-Dissipative Variables: A Mechanism-Data Fusion Method. arXiv:2212.11508](https://arxiv.org/abs/2212.11508).
 - [2022] [Chuang Zhang, Samuel Huberman, Xinliang Song, Jin Zhao, Songze Chen, Lei Wu*. Acceleration strategy of source iteration method for the stationary phonon Boltzmann transport equation. arxiv2212.05763](https://arxiv.org/abs/2212.05763).
+- [2022] [Chuang Zhang, Lei Wu*. Transient hydrodynamic phonon transport in two-dimensional disk geometry. arxiv2203.12958](https://arxiv.org/abs/2203.12958).
+- [2022] [Samuel Huberman, Chuang Zhang, Jamal Abou Haibeh. On the question of second sound in germanium: A theoretical viewpoint. arxiv2206.02769](https://arxiv.org/abs/2206.02769).
 - [2022] [Chuang Zhang, Samuel Huberman, Lei Wu*. On the emergence of heat waves in the transient thermal grating geometry. Journal of Applied Physics. 132, 085103 (2022)](https://aip.scitation.org/doi/10.1063/5.0102227).
 - [2022] [Chuang Zhang, Lei Wu*. Nonmonotonic heat dissipation phenomenon in close-packed hotspot systems. Physical Review E, 106, 014111 (2022)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.014111).
 - [2022] [Jia Liu, Chuang Zhang, Haizhuan Yuan, Wei Su*,  Lei Wu*. A fast-converging scheme for the phonon Boltzmann equation with dual relaxation times. Journal of Computational Physics, 467 (2022) 111436.](https://www.sciencedirect.com/science/article/pii/S0021999122004983?via%3Dihub).
-- [2022] [Chuang Zhang, Lei Wu*. Transient hydrodynamic phonon transport in two-dimensional disk geometry. arxiv2203.12958](https://arxiv.org/abs/2203.12958).
-- [2022] [Samuel Huberman, Chuang Zhang, Jamal Abou Haibeh. On the question of second sound in germanium: A theoretical viewpoint. arxiv2206.02769](https://arxiv.org/abs/2206.02769).
 - [2022] [Chuang Zhang, Dengke Ma, Xiao Wan, Manyu Shang, Jingtao Lü, Zhaoli Guo*, Baowen Li*, Nuo Yang*. Graded thermal conductivity in 2D and 3D homogeneous hotspot systems. Materials Today Physics, 2022, 100605](https://www.sciencedirect.com/science/article/abs/pii/S2542529322000037?via%3Dihub).
 <!--  -->
 - [2021] [Chuang Zhang, Zhaoli Guo*. A transient heat conduction phenomenon to distinguish the hydrodynamic and (quasi) ballistic phonon transport. International Journal of Heat and Mass Transfer, 2021, 181: 121847](https://www.sciencedirect.com/science/article/abs/pii/S0017931021009522?via%3Dihub).
